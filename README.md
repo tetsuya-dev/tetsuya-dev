@@ -1,4 +1,5 @@
-![b68cae69-8e76-4f0c-b961-1e6b5d6e93ec](https://github.com/user-attachments/assets/b15e42a8-c573-4e2b-8e59-fee0a41c6545)
+<img width="969" height="253" alt="Captura de pantalla 2025-09-15 a las 21 39 37" src="https://github.com/user-attachments/assets/2ba971c8-b01f-4c2b-95d9-4df107d6e11e" />
+
 
 ## Hi there 👋
 
