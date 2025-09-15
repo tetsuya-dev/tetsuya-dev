@@ -1,4 +1,4 @@
-<img width="800" height="300" alt="rAUL SANCHEZ" src="https://github.com/user-attachments/assets/fcdb960c-aa23-4181-a2c9-306cb5a65f89" />
+<img width="2524" height="2006" alt="github-header-banner" src="https://github.com/user-attachments/assets/61882220-8c86-4f31-b93e-6fc1b3cb61a4" />
 
 ## Hi there 👋
 
