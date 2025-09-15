@@ -1,5 +1,4 @@
-<img width="969" height="253" alt="Captura de pantalla 2025-09-15 a las 21 39 37" src="https://github.com/user-attachments/assets/2ba971c8-b01f-4c2b-95d9-4df107d6e11e" />
-
+![Captura de pantalla 2025-09-15 a las 21 39 37](https://github.com/user-attachments/assets/dc50b50f-c3bd-4c3c-9228-c4d461f43bc3)
 
 ## Hi there 👋
 
